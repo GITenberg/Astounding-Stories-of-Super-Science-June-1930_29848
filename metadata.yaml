@@ -1,0 +1,43 @@
+_repo: Astounding-Stories-of-Super-Science-June-1930_29848
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29848-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Bates, Harry
+    aliases:
+    - Bates, Hiram Gilmore
+    - Winter, H. G.
+    birthdate: 1900
+    deathdate: 1981
+    gutenberg_agent_id: '33755'
+    url: http://www.gutenberg.org/2009/agents/33755
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Bates_(author)
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2009-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction -- Periodicals'
+- !lcc 'PN'
+- !lcsh 'Science fiction, American -- Periodicals'
+tableOfContents: "Out of the Dreadful Depths / Charles Willard Diffin\r\nMurder Madness\
+  \ (Part 2 of 4) / Murray Leinster\r\nThe Cavern World / James P. Olsen\r\nBrigands\
+  \ of the Moon (Part 4 of 4) / Ray Cummings\r\nGiants of the Ray / Tom Curry\r\n\
+  The Moon Master / Charles Willard Diffin"
+title: Astounding Stories of Super-Science, June, 1930
+url: http://www.gutenberg.org/ebooks/29848
